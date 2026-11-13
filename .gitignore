@@ -1,0 +1,6 @@
+out/
+state.json
+mihomo
+mihomo.gz
+__pycache__/
+*.log
