@@ -1,6 +1,11 @@
 {
+ "Edsel-Rahimi/Ariston": {
+  "pushed_at": "2026-11-24T00:31:07Z",
+  "html_url": "https://github.com/Edsel-Rahimi/Ariston",
+  "links": []
+ },
  "cbusifabcap/daily_free_vpn": {
-  "pushed_at": "2026-11-23T13:25:07Z",
+  "pushed_at": "2026-11-24T00:30:08Z",
   "html_url": "https://github.com/cbusifabcap/daily_free_vpn",
   "links": [
    {
@@ -45,28 +50,67 @@
    }
   ]
  },
- "Edsel-Rahimi/Ariston": {
-  "pushed_at": "2026-11-23T13:24:58Z",
-  "html_url": "https://github.com/Edsel-Rahimi/Ariston",
-  "links": []
+ "MustafaBaqer/VestraNet-Nodes": {
+  "pushed_at": "2026-11-24T00:28:20Z",
+  "html_url": "https://github.com/MustafaBaqer/VestraNet-Nodes",
+  "links": [
+   {
+    "path": "subscriptions/mix-base64.txt",
+    "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt",
+    "nodes": 735,
+    "ss_nodes": 14,
+    "format": "base64",
+    "ok": true
+   },
+   {
+    "path": "subscriptions/mix-normal.txt",
+    "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt",
+    "nodes": 984,
+    "ss_nodes": 24,
+    "format": "plain",
+    "ok": true
+   }
+  ]
  },
- "py2u/clash-routing": {
-  "pushed_at": "2026-11-23T13:24:57Z",
-  "html_url": "https://github.com/py2u/clash-routing",
-  "links": []
- },
- "txrx13/meduzavpn": {
-  "pushed_at": "2026-11-23T13:24:40Z",
-  "html_url": "https://github.com/txrx13/meduzavpn",
+ "bq2015/FreeProxies": {
+  "pushed_at": "2026-11-24T00:28:10Z",
+  "html_url": "https://github.com/bq2015/FreeProxies",
   "links": []
  },
  "dengyie/mango-connect": {
-  "pushed_at": "2026-11-23T13:24:26Z",
+  "pushed_at": "2026-11-24T00:28:09Z",
   "html_url": "https://github.com/dengyie/mango-connect",
   "links": []
  },
+ "grisha-seleznev/free-vless-keys-russia": {
+  "pushed_at": "2026-11-24T00:27:40Z",
+  "html_url": "https://github.com/grisha-seleznev/free-vless-keys-russia",
+  "links": [
+   {
+    "path": "sub.txt",
+    "url": "https://raw.githubusercontent.com/grisha-seleznev/free-vless-keys-russia/main/sub.txt",
+    "nodes": 45,
+    "ss_nodes": 0,
+    "format": "plain",
+    "ok": true
+   },
+   {
+    "path": "sub_base64.txt",
+    "url": "https://raw.githubusercontent.com/grisha-seleznev/free-vless-keys-russia/main/sub_base64.txt",
+    "nodes": 45,
+    "ss_nodes": 0,
+    "format": "base64",
+    "ok": true
+   }
+  ]
+ },
+ "jafarm83/ConfigV2Ray": {
+  "pushed_at": "2026-11-24T00:26:41Z",
+  "html_url": "https://github.com/jafarm83/ConfigV2Ray",
+  "links": []
+ },
  "hello-world-1989/cn-news": {
-  "pushed_at": "2026-11-23T13:24:13Z",
+  "pushed_at": "2026-11-24T00:24:14Z",
   "html_url": "https://github.com/hello-world-1989/cn-news",
   "links": [
    {
@@ -95,74 +139,18 @@
    }
   ]
  },
- "bq2015/FreeProxies": {
-  "pushed_at": "2026-11-23T13:23:14Z",
-  "html_url": "https://github.com/bq2015/FreeProxies",
-  "links": []
- },
- "mm24trg2gy-star/dsh-proxy-embedded": {
-  "pushed_at": "2026-11-23T13:22:44Z",
-  "html_url": "https://github.com/mm24trg2gy-star/dsh-proxy-embedded",
-  "links": []
- },
- "xoeash/mu300-linux-vpn-enhance": {
-  "pushed_at": "2026-11-23T13:21:31Z",
-  "html_url": "https://github.com/xoeash/mu300-linux-vpn-enhance",
+ "HakurouKen/free-node": {
+  "pushed_at": "2026-11-24T00:23:45Z",
+  "html_url": "https://github.com/HakurouKen/free-node",
   "links": []
  },
  "Romaxa55/MegaV_Public": {
-  "pushed_at": "2026-11-23T13:20:59Z",
+  "pushed_at": "2026-11-24T00:20:43Z",
   "html_url": "https://github.com/Romaxa55/MegaV_Public",
   "links": []
  },
- "0xRadikal/Free-v2ray-Configs": {
-  "pushed_at": "2026-11-23T13:19:04Z",
-  "html_url": "https://github.com/0xRadikal/Free-v2ray-Configs",
-  "links": [
-   {
-    "path": "all/clash.yaml",
-    "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/all/clash.yaml",
-    "nodes": 569,
-    "ss_nodes": 877,
-    "format": "clash-yaml",
-    "ok": true
-   },
-   {
-    "path": "fast/clash.yaml",
-    "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/fast/clash.yaml",
-    "nodes": 1104,
-    "ss_nodes": 222,
-    "format": "clash-yaml",
-    "ok": true
-   },
-   {
-    "path": "google/clash.yaml",
-    "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/google/clash.yaml",
-    "nodes": 694,
-    "ss_nodes": 114,
-    "format": "clash-yaml",
-    "ok": true
-   },
-   {
-    "path": "heavy/clash.yaml",
-    "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/heavy/clash.yaml",
-    "nodes": 604,
-    "ss_nodes": 821,
-    "format": "clash-yaml",
-    "ok": true
-   },
-   {
-    "path": "light/clash.yaml",
-    "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/light/clash.yaml",
-    "nodes": 1219,
-    "ss_nodes": 343,
-    "format": "clash-yaml",
-    "ok": true
-   }
-  ]
- },
  "fifthidea/sub": {
-  "pushed_at": "2026-11-23T13:18:40Z",
+  "pushed_at": "2026-11-24T00:18:24Z",
   "html_url": "https://github.com/fifthidea/sub",
   "links": [
    {
@@ -176,8 +164,8 @@
    {
     "path": "channels/V2rayBaaz.txt",
     "url": "https://raw.githubusercontent.com/fifthidea/sub/main/channels/V2rayBaaz.txt",
-    "nodes": 206,
-    "ss_nodes": 93,
+    "nodes": 205,
+    "ss_nodes": 94,
     "format": "plain",
     "ok": true
    },
@@ -192,7 +180,7 @@
    {
     "path": "channels/v2ray_configs_pool.txt",
     "url": "https://raw.githubusercontent.com/fifthidea/sub/main/channels/v2ray_configs_pool.txt",
-    "nodes": 233,
+    "nodes": 226,
     "ss_nodes": 6,
     "format": "plain",
     "ok": true
@@ -207,60 +195,224 @@
    }
   ]
  },
- "NetForgeDev/fnf-sub-converter": {
-  "pushed_at": "2026-11-23T13:17:25Z",
-  "html_url": "https://github.com/NetForgeDev/fnf-sub-converter",
-  "links": []
- },
- "chaishpish/free_server_v2ray": {
-  "pushed_at": "2026-11-23T13:15:02Z",
-  "html_url": "https://github.com/chaishpish/free_server_v2ray",
-  "links": []
- },
- "jafarm83/ConfigV2Ray": {
-  "pushed_at": "2026-11-23T13:13:47Z",
-  "html_url": "https://github.com/jafarm83/ConfigV2Ray",
-  "links": []
- },
- "MustafaBaqer/VestraNet-Nodes": {
-  "pushed_at": "2026-11-23T13:13:20Z",
-  "html_url": "https://github.com/MustafaBaqer/VestraNet-Nodes",
+ "zhuhaiuk/free-nodes": {
+  "pushed_at": "2026-11-24T00:18:20Z",
+  "html_url": "https://github.com/zhuhaiuk/free-nodes",
   "links": [
    {
-    "path": "subscriptions/mix-base64.txt",
-    "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt",
-    "nodes": 743,
-    "ss_nodes": 11,
+    "path": "clash_config.yaml",
+    "url": "https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/clash_config.yaml",
+    "nodes": 55,
+    "ss_nodes": 1,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "extra_clash_config.yaml",
+    "url": "https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/extra_clash_config.yaml",
+    "nodes": 17,
+    "ss_nodes": 1,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "extra_nodes.txt",
+    "url": "https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/extra_nodes.txt",
+    "nodes": 6,
+    "ss_nodes": 1,
     "format": "base64",
     "ok": true
    },
    {
-    "path": "subscriptions/mix-normal.txt",
-    "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-normal.txt",
-    "nodes": 982,
-    "ss_nodes": 22,
+    "path": "nodes.txt",
+    "url": "https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/nodes.txt",
+    "nodes": 8,
+    "ss_nodes": 1,
+    "format": "base64",
+    "ok": true
+   }
+  ]
+ },
+ "0xRadikal/Free-v2ray-Configs": {
+  "pushed_at": "2026-11-24T00:16:01Z",
+  "html_url": "https://github.com/0xRadikal/Free-v2ray-Configs",
+  "links": [
+   {
+    "path": "all/clash.yaml",
+    "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/all/clash.yaml",
+    "nodes": 720,
+    "ss_nodes": 664,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "fast/clash.yaml",
+    "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/fast/clash.yaml",
+    "nodes": 1217,
+    "ss_nodes": 233,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "google/clash.yaml",
+    "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/google/clash.yaml",
+    "nodes": 735,
+    "ss_nodes": 103,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "heavy/clash.yaml",
+    "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/heavy/clash.yaml",
+    "nodes": 848,
+    "ss_nodes": 592,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "light/clash.yaml",
+    "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/light/clash.yaml",
+    "nodes": 1284,
+    "ss_nodes": 310,
+    "format": "clash-yaml",
+    "ok": true
+   }
+  ]
+ },
+ "nichecer/v2ray-node-share": {
+  "pushed_at": "2026-11-24T00:15:30Z",
+  "html_url": "https://github.com/nichecer/v2ray-node-share",
+  "links": [
+   {
+    "path": "nodes.txt",
+    "url": "https://raw.githubusercontent.com/nichecer/v2ray-node-share/main/nodes.txt",
+    "nodes": 12,
+    "ss_nodes": 12,
+    "format": "plain",
+    "ok": true
+   },
+   {
+    "path": "sub.txt",
+    "url": "https://raw.githubusercontent.com/nichecer/v2ray-node-share/main/sub.txt",
+    "nodes": 12,
+    "ss_nodes": 12,
+    "format": "base64",
+    "ok": true
+   }
+  ]
+ },
+ "snakem982/proxypool": {
+  "pushed_at": "2026-11-24T00:15:04Z",
+  "html_url": "https://github.com/snakem982/proxypool",
+  "links": [
+   {
+    "path": "source/clash-meta-2.yaml",
+    "url": "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml",
+    "nodes": 124,
+    "ss_nodes": 9,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "source/v2ray-2.txt",
+    "url": "https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt",
+    "nodes": 48,
+    "ss_nodes": 9,
+    "format": "base64",
+    "ok": true
+   }
+  ]
+ },
+ "wa3duck/freenodes": {
+  "pushed_at": "2026-11-24T00:13:29Z",
+  "html_url": "https://github.com/wa3duck/freenodes",
+  "links": [
+   {
+    "path": "output/by-country/clash-AE.yaml",
+    "url": "https://raw.githubusercontent.com/wa3duck/freenodes/main/output/by-country/clash-AE.yaml",
+    "nodes": 8,
+    "ss_nodes": 2,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "output/by-country/clash-AM.yaml",
+    "url": "https://raw.githubusercontent.com/wa3duck/freenodes/main/output/by-country/clash-AM.yaml",
+    "nodes": 4,
+    "ss_nodes": 0,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "output/by-country/clash-AT.yaml",
+    "url": "https://raw.githubusercontent.com/wa3duck/freenodes/main/output/by-country/clash-AT.yaml",
+    "nodes": 4,
+    "ss_nodes": 2,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "output/by-country/clash-AU.yaml",
+    "url": "https://raw.githubusercontent.com/wa3duck/freenodes/main/output/by-country/clash-AU.yaml",
+    "nodes": 10,
+    "ss_nodes": 0,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "output/by-country/clash-BG.yaml",
+    "url": "https://raw.githubusercontent.com/wa3duck/freenodes/main/output/by-country/clash-BG.yaml",
+    "nodes": 5,
+    "ss_nodes": 8,
+    "format": "clash-yaml",
+    "ok": true
+   }
+  ]
+ },
+ "alireza786786/Free-V2ray-Configs": {
+  "pushed_at": "2026-11-24T00:11:11Z",
+  "html_url": "https://github.com/alireza786786/Free-V2ray-Configs",
+  "links": [
+   {
+    "path": "all_servers.txt",
+    "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/all_servers.txt",
+    "nodes": 511,
+    "ss_nodes": 115,
     "format": "plain",
     "ok": true
    }
   ]
  },
- "chongwuhou/subscription-sync": {
-  "pushed_at": "2026-11-23T13:11:09Z",
-  "html_url": "https://github.com/chongwuhou/subscription-sync",
-  "links": []
+ "zueston/proxy-hub": {
+  "pushed_at": "2026-11-24T00:10:58Z",
+  "html_url": "https://github.com/zueston/proxy-hub",
+  "links": [
+   {
+    "path": "out/clash.yaml",
+    "url": "https://raw.githubusercontent.com/zueston/proxy-hub/main/out/clash.yaml",
+    "nodes": 1,
+    "ss_nodes": 0,
+    "format": "plain",
+    "ok": true
+   }
+  ]
  },
- "scud3g/clash-config": {
-  "pushed_at": "2026-11-23T13:10:36Z",
-  "html_url": "https://github.com/scud3g/clash-config",
-  "links": []
- },
- "flyingiq/clash-verge-guide-2026": {
-  "pushed_at": "2026-11-23T13:10:16Z",
-  "html_url": "https://github.com/flyingiq/clash-verge-guide-2026",
-  "links": []
+ "nichecer/clash-node-share": {
+  "pushed_at": "2026-11-24T00:10:24Z",
+  "html_url": "https://github.com/nichecer/clash-node-share",
+  "links": [
+   {
+    "path": "clash.yaml",
+    "url": "https://raw.githubusercontent.com/nichecer/clash-node-share/main/clash.yaml",
+    "nodes": 25,
+    "ss_nodes": 12,
+    "format": "clash-yaml",
+    "ok": true
+   }
+  ]
  },
  "auuuu4/clash-sub-auto": {
-  "pushed_at": "2026-11-23T13:09:15Z",
+  "pushed_at": "2026-11-24T00:08:49Z",
   "html_url": "https://github.com/auuuu4/clash-sub-auto",
   "links": [
    {
@@ -274,125 +426,35 @@
    {
     "path": "s/y37ocm2gmz4m018gwkfbrraeaijr/sub.yaml",
     "url": "https://raw.githubusercontent.com/auuuu4/clash-sub-auto/main/s/y37ocm2gmz4m018gwkfbrraeaijr/sub.yaml",
-    "nodes": 304,
-    "ss_nodes": 14,
+    "nodes": 302,
+    "ss_nodes": 22,
     "format": "clash-yaml",
     "ok": true
    }
   ]
  },
- "laoXuHome/NodePoolME": {
-  "pushed_at": "2026-11-23T13:07:55Z",
-  "html_url": "https://github.com/laoXuHome/NodePoolME",
-  "links": []
- },
- "V2HUBIR/V2HUBIR-Free-V2Ray-Configs-free-Sub": {
-  "pushed_at": "2026-11-23T13:07:34Z",
-  "html_url": "https://github.com/V2HUBIR/V2HUBIR-Free-V2Ray-Configs-free-Sub",
+ "LeilaoMi/AutoMergePublicNodes-Optimized": {
+  "pushed_at": "2026-11-24T00:08:03Z",
+  "html_url": "https://github.com/LeilaoMi/AutoMergePublicNodes-Optimized",
   "links": [
    {
-    "path": "sub.txt",
-    "url": "https://raw.githubusercontent.com/V2HUBIR/V2HUBIR-Free-V2Ray-Configs-free-Sub/main/sub.txt",
-    "nodes": 173,
-    "ss_nodes": 27,
-    "format": "plain",
-    "ok": true
-   },
-   {
-    "path": "sub_base64.txt",
-    "url": "https://raw.githubusercontent.com/V2HUBIR/V2HUBIR-Free-V2Ray-Configs-free-Sub/main/sub_base64.txt",
-    "nodes": 173,
-    "ss_nodes": 27,
-    "format": "base64",
-    "ok": true
-   }
-  ]
- },
- "grisha-seleznev/free-vless-keys-russia": {
-  "pushed_at": "2026-11-23T13:06:46Z",
-  "html_url": "https://github.com/grisha-seleznev/free-vless-keys-russia",
-  "links": [
-   {
-    "path": "sub.txt",
-    "url": "https://raw.githubusercontent.com/grisha-seleznev/free-vless-keys-russia/main/sub.txt",
-    "nodes": 34,
-    "ss_nodes": 0,
-    "format": "plain",
-    "ok": true
-   },
-   {
-    "path": "sub_base64.txt",
-    "url": "https://raw.githubusercontent.com/grisha-seleznev/free-vless-keys-russia/main/sub_base64.txt",
-    "nodes": 34,
-    "ss_nodes": 0,
-    "format": "base64",
-    "ok": true
-   }
-  ]
- },
- "WilliamQXZ/free-nodes-sr": {
-  "pushed_at": "2026-11-23T13:06:17Z",
-  "html_url": "https://github.com/WilliamQXZ/free-nodes-sr",
-  "links": [
-   {
-    "path": "sr-sub-us.yaml",
-    "url": "https://raw.githubusercontent.com/WilliamQXZ/free-nodes-sr/main/sr-sub-us.yaml",
-    "nodes": 6,
-    "ss_nodes": 0,
-    "format": "clash-yaml",
-    "ok": true
-   },
-   {
-    "path": "sr-sub.yaml",
-    "url": "https://raw.githubusercontent.com/WilliamQXZ/free-nodes-sr/main/sr-sub.yaml",
-    "nodes": 4,
+    "path": "tests/fixtures/protocols/clash.yaml",
+    "url": "https://raw.githubusercontent.com/LeilaoMi/AutoMergePublicNodes-Optimized/main/tests/fixtures/protocols/clash.yaml",
+    "nodes": 1,
     "ss_nodes": 0,
     "format": "clash-yaml",
     "ok": true
    }
   ]
- },
- "Andrejewild/hiddify-singbox-configs-ru": {
-  "pushed_at": "2026-11-23T13:05:46Z",
-  "html_url": "https://github.com/Andrejewild/hiddify-singbox-configs-ru",
-  "links": [
-   {
-    "path": "sub.txt",
-    "url": "https://raw.githubusercontent.com/Andrejewild/hiddify-singbox-configs-ru/main/sub.txt",
-    "nodes": 20,
-    "ss_nodes": 0,
-    "format": "plain",
-    "ok": true
-   }
-  ]
- },
- "Andrejewild/happ-v2rayng-configs": {
-  "pushed_at": "2026-11-23T13:05:21Z",
-  "html_url": "https://github.com/Andrejewild/happ-v2rayng-configs",
-  "links": [
-   {
-    "path": "sub.txt",
-    "url": "https://raw.githubusercontent.com/Andrejewild/happ-v2rayng-configs/main/sub.txt",
-    "nodes": 20,
-    "ss_nodes": 0,
-    "format": "plain",
-    "ok": true
-   }
-  ]
- },
- "Pawdroid/Free-servers": {
-  "pushed_at": "2026-11-23T13:05:15Z",
-  "html_url": "https://github.com/Pawdroid/Free-servers",
-  "links": []
  },
  "rekt0ro/ProxyRift": {
-  "pushed_at": "2026-11-23T13:03:22Z",
+  "pushed_at": "2026-11-24T00:06:54Z",
   "html_url": "https://github.com/rekt0ro/ProxyRift",
   "links": [
    {
     "path": "subscriptions/all-clash.yaml",
     "url": "https://raw.githubusercontent.com/rekt0ro/ProxyRift/main/subscriptions/all-clash.yaml",
-    "nodes": 1739,
+    "nodes": 1922,
     "ss_nodes": 0,
     "format": "clash-yaml",
     "ok": true
@@ -400,23 +462,23 @@
    {
     "path": "subscriptions/all-base64.txt",
     "url": "https://raw.githubusercontent.com/rekt0ro/ProxyRift/main/subscriptions/all-base64.txt",
-    "nodes": 778,
-    "ss_nodes": 264,
+    "nodes": 744,
+    "ss_nodes": 158,
     "format": "base64",
     "ok": true
    },
    {
     "path": "subscriptions/all.txt",
     "url": "https://raw.githubusercontent.com/rekt0ro/ProxyRift/main/subscriptions/all.txt",
-    "nodes": 950,
-    "ss_nodes": 367,
+    "nodes": 940,
+    "ss_nodes": 344,
     "format": "plain",
     "ok": true
    },
    {
     "path": "subscriptions/light-clash.yaml",
     "url": "https://raw.githubusercontent.com/rekt0ro/ProxyRift/main/subscriptions/light-clash.yaml",
-    "nodes": 178,
+    "nodes": 242,
     "ss_nodes": 0,
     "format": "clash-yaml",
     "ok": true
@@ -424,20 +486,185 @@
    {
     "path": "subscriptions/light-base64.txt",
     "url": "https://raw.githubusercontent.com/rekt0ro/ProxyRift/main/subscriptions/light-base64.txt",
-    "nodes": 72,
-    "ss_nodes": 31,
+    "nodes": 109,
+    "ss_nodes": 23,
     "format": "base64",
     "ok": true
    }
   ]
  },
+ "Agumuzi/crhopper": {
+  "pushed_at": "2026-11-24T00:06:45Z",
+  "html_url": "https://github.com/Agumuzi/crhopper",
+  "links": []
+ },
+ "nichecer/shadowrocket-node-share": {
+  "pushed_at": "2026-11-24T00:05:21Z",
+  "html_url": "https://github.com/nichecer/shadowrocket-node-share",
+  "links": [
+   {
+    "path": "nodes.txt",
+    "url": "https://raw.githubusercontent.com/nichecer/shadowrocket-node-share/main/nodes.txt",
+    "nodes": 13,
+    "ss_nodes": 12,
+    "format": "plain",
+    "ok": true
+   },
+   {
+    "path": "sub.txt",
+    "url": "https://raw.githubusercontent.com/nichecer/shadowrocket-node-share/main/sub.txt",
+    "nodes": 13,
+    "ss_nodes": 12,
+    "format": "base64",
+    "ok": true
+   }
+  ]
+ },
+ "Pawdroid/Free-servers": {
+  "pushed_at": "2026-11-24T00:04:32Z",
+  "html_url": "https://github.com/Pawdroid/Free-servers",
+  "links": []
+ },
+ "chenzhihan1751-cyber/node-sub-zixf": {
+  "pushed_at": "2026-11-24T00:04:27Z",
+  "html_url": "https://github.com/chenzhihan1751-cyber/node-sub-zixf",
+  "links": [
+   {
+    "path": "sub/base64.txt",
+    "url": "https://raw.githubusercontent.com/chenzhihan1751-cyber/node-sub-zixf/main/sub/base64.txt",
+    "nodes": 475,
+    "ss_nodes": 265,
+    "format": "base64",
+    "ok": true
+   },
+   {
+    "path": "sub/v2ray.txt",
+    "url": "https://raw.githubusercontent.com/chenzhihan1751-cyber/node-sub-zixf/main/sub/v2ray.txt",
+    "nodes": 475,
+    "ss_nodes": 265,
+    "format": "plain",
+    "ok": true
+   }
+  ]
+ },
+ "WilliamQXZ/free-nodes-sr": {
+  "pushed_at": "2026-11-24T00:03:22Z",
+  "html_url": "https://github.com/WilliamQXZ/free-nodes-sr",
+  "links": [
+   {
+    "path": "sr-sub-us.yaml",
+    "url": "https://raw.githubusercontent.com/WilliamQXZ/free-nodes-sr/main/sr-sub-us.yaml",
+    "nodes": 17,
+    "ss_nodes": 0,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "sr-sub.yaml",
+    "url": "https://raw.githubusercontent.com/WilliamQXZ/free-nodes-sr/main/sr-sub.yaml",
+    "nodes": 7,
+    "ss_nodes": 1,
+    "format": "clash-yaml",
+    "ok": true
+   }
+  ]
+ },
+ "kooker/FreeSubsCheck": {
+  "pushed_at": "2026-11-24T00:00:57Z",
+  "html_url": "https://github.com/kooker/FreeSubsCheck",
+  "links": [
+   {
+    "path": "all.yaml",
+    "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/all.yaml",
+    "nodes": 21,
+    "ss_nodes": 6,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": ".github/workflows/update-subs.yml",
+    "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/.github/workflows/update-subs.yml",
+    "nodes": 0,
+    "ss_nodes": 0,
+    "format": "unknown",
+    "ok": false
+   }
+  ]
+ },
+ "lerjtl/Testfree": {
+  "pushed_at": "2026-11-24T00:00:53Z",
+  "html_url": "https://github.com/lerjtl/Testfree",
+  "links": []
+ },
+ "skka3134/Free-servers": {
+  "pushed_at": "2026-11-24T00:00:42Z",
+  "html_url": "https://github.com/skka3134/Free-servers",
+  "links": []
+ },
  "lanzm/MetaFetch": {
-  "pushed_at": "2026-11-23T13:00:31Z",
+  "pushed_at": "2026-11-24T00:00:33Z",
   "html_url": "https://github.com/lanzm/MetaFetch",
   "links": []
  },
+ "v2raydog-node/free-nodes": {
+  "pushed_at": "2026-11-24T00:00:26Z",
+  "html_url": "https://github.com/v2raydog-node/free-nodes",
+  "links": [
+   {
+    "path": "clash.yaml",
+    "url": "https://raw.githubusercontent.com/v2raydog-node/free-nodes/main/clash.yaml",
+    "nodes": 27,
+    "ss_nodes": 12,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "nodes.txt",
+    "url": "https://raw.githubusercontent.com/v2raydog-node/free-nodes/main/nodes.txt",
+    "nodes": 13,
+    "ss_nodes": 12,
+    "format": "plain",
+    "ok": true
+   },
+   {
+    "path": "v2ray.txt",
+    "url": "https://raw.githubusercontent.com/v2raydog-node/free-nodes/main/v2ray.txt",
+    "nodes": 13,
+    "ss_nodes": 12,
+    "format": "base64",
+    "ok": true
+   }
+  ]
+ },
+ "yy1588133/proxy-pool": {
+  "pushed_at": "2026-11-24T00:00:13Z",
+  "html_url": "https://github.com/yy1588133/proxy-pool",
+  "links": [
+   {
+    "path": "clash.yaml",
+    "url": "https://raw.githubusercontent.com/yy1588133/proxy-pool/main/clash.yaml",
+    "nodes": 964,
+    "ss_nodes": 252,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "v2ray.txt",
+    "url": "https://raw.githubusercontent.com/yy1588133/proxy-pool/main/v2ray.txt",
+    "nodes": 458,
+    "ss_nodes": 252,
+    "format": "base64",
+    "ok": true
+   }
+  ]
+ },
+ "crossxx-labs/free-proxy": {
+  "pushed_at": "2026-11-24T00:00:06Z",
+  "html_url": "https://github.com/crossxx-labs/free-proxy",
+  "links": []
+ },
  "kzeng/free-proxy-airport": {
-  "pushed_at": "2026-11-23T13:00:14Z",
+  "pushed_at": "2026-11-24T00:00:06Z",
   "html_url": "https://github.com/kzeng/free-proxy-airport",
   "links": [
    {
@@ -458,498 +685,172 @@
    }
   ]
  },
- "OpenNetCN/clash": {
-  "pushed_at": "2026-11-23T13:00:12Z",
-  "html_url": "https://github.com/OpenNetCN/clash",
-  "links": []
- },
- "cctrylyj/ur-auto": {
-  "pushed_at": "2026-11-23T12:55:16Z",
-  "html_url": "https://github.com/cctrylyj/ur-auto",
-  "links": []
- },
- "alireza786786/Free-V2ray-Configs": {
-  "pushed_at": "2026-11-23T12:54:58Z",
-  "html_url": "https://github.com/alireza786786/Free-V2ray-Configs",
-  "links": [
-   {
-    "path": "all_servers.txt",
-    "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/all_servers.txt",
-    "nodes": 455,
-    "ss_nodes": 199,
-    "format": "plain",
-    "ok": true
-   }
-  ]
- },
- "bushilian/bushilian": {
-  "pushed_at": "2026-11-23T12:53:29Z",
-  "html_url": "https://github.com/bushilian/bushilian",
-  "links": []
- },
- "guhaoxin123/qinglian": {
-  "pushed_at": "2026-11-23T12:48:52Z",
-  "html_url": "https://github.com/guhaoxin123/qinglian",
-  "links": []
- },
- "angwz/clash-launch": {
-  "pushed_at": "2026-11-23T12:38:20Z",
-  "html_url": "https://github.com/angwz/clash-launch",
-  "links": [
-   {
-    "path": "catalog/mihomo/presets/openclash.yaml",
-    "url": "https://raw.githubusercontent.com/angwz/clash-launch/main/catalog/mihomo/presets/openclash.yaml",
-    "nodes": 0,
-    "ss_nodes": 0,
-    "format": "unknown",
-    "ok": false
-   },
-   {
-    "path": "testdata/profiles/m6-openclash-fields.yaml",
-    "url": "https://raw.githubusercontent.com/angwz/clash-launch/main/testdata/profiles/m6-openclash-fields.yaml",
-    "nodes": 27,
-    "ss_nodes": 0,
-    "format": "clash-yaml",
-    "ok": true
-   }
-  ]
- },
- "flyingiq/airport-recommended-2026": {
-  "pushed_at": "2026-11-23T12:37:31Z",
-  "html_url": "https://github.com/flyingiq/airport-recommended-2026",
-  "links": []
- },
- "Thordata/awesome-free-proxy-list": {
-  "pushed_at": "2026-11-23T12:35:34Z",
-  "html_url": "https://github.com/Thordata/awesome-free-proxy-list",
-  "links": [
-   {
-    "path": "docs/data/clash/all.yaml",
-    "url": "https://raw.githubusercontent.com/Thordata/awesome-free-proxy-list/main/docs/data/clash/all.yaml",
-    "nodes": 157,
-    "ss_nodes": 0,
-    "format": "clash-yaml",
-    "ok": true
-   },
-   {
-    "path": "proxies/clash/all.yaml",
-    "url": "https://raw.githubusercontent.com/Thordata/awesome-free-proxy-list/main/proxies/clash/all.yaml",
-    "nodes": 157,
-    "ss_nodes": 0,
-    "format": "clash-yaml",
-    "ok": true
-   },
-   {
-    "path": "docs/data/links/all.txt",
-    "url": "https://raw.githubusercontent.com/Thordata/awesome-free-proxy-list/main/docs/data/links/all.txt",
-    "nodes": 0,
-    "ss_nodes": 0,
-    "format": "unknown",
-    "ok": false
-   },
-   {
-    "path": "docs/data/v2ray/all.txt",
-    "url": "https://raw.githubusercontent.com/Thordata/awesome-free-proxy-list/main/docs/data/v2ray/all.txt",
-    "nodes": 0,
-    "ss_nodes": 0,
-    "format": "unknown",
-    "ok": false
-   },
-   {
-    "path": "proxies/all.txt",
-    "url": "https://raw.githubusercontent.com/Thordata/awesome-free-proxy-list/main/proxies/all.txt",
-    "nodes": 0,
-    "ss_nodes": 0,
-    "format": "unknown",
-    "ok": false
-   }
-  ]
- },
- "fastestjerry/ai-agent": {
-  "pushed_at": "2026-11-23T12:33:36Z",
-  "html_url": "https://github.com/fastestjerry/ai-agent",
-  "links": []
- },
- "guhaoxin123/dsh-vpn": {
-  "pushed_at": "2026-11-23T12:25:13Z",
-  "html_url": "https://github.com/guhaoxin123/dsh-vpn",
-  "links": [
-   {
-    "path": "clash.yaml",
-    "url": "https://raw.githubusercontent.com/guhaoxin123/dsh-vpn/main/clash.yaml",
-    "nodes": 280,
-    "ss_nodes": 8,
-    "format": "clash-yaml",
-    "ok": true
-   },
-   {
-    "path": "fast/clash.yaml",
-    "url": "https://raw.githubusercontent.com/guhaoxin123/dsh-vpn/main/fast/clash.yaml",
-    "nodes": 56,
-    "ss_nodes": 0,
-    "format": "clash-yaml",
-    "ok": true
-   },
-   {
-    "path": "v2rayng.txt",
-    "url": "https://raw.githubusercontent.com/guhaoxin123/dsh-vpn/main/v2rayng.txt",
-    "nodes": 40,
-    "ss_nodes": 8,
-    "format": "base64",
-    "ok": true
-   },
-   {
-    "path": "fast/v2rayng.txt",
-    "url": "https://raw.githubusercontent.com/guhaoxin123/dsh-vpn/main/fast/v2rayng.txt",
-    "nodes": 6,
-    "ss_nodes": 0,
-    "format": "base64",
-    "ok": true
-   }
-  ]
- },
- "shaoyouvip/free": {
-  "pushed_at": "2026-11-23T12:22:20Z",
-  "html_url": "https://github.com/shaoyouvip/free",
-  "links": [
-   {
-    "path": "all.yaml",
-    "url": "https://raw.githubusercontent.com/shaoyouvip/free/main/all.yaml",
-    "nodes": 7,
-    "ss_nodes": 0,
-    "format": "clash-yaml",
-    "ok": true
-   }
-  ]
- },
- "meroseem/acaesub": {
-  "pushed_at": "2026-11-23T12:21:56Z",
-  "html_url": "https://github.com/meroseem/acaesub",
-  "links": [
-   {
-    "path": "output/by-country/clash-AE.yaml",
-    "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-AE.yaml",
-    "nodes": 4,
-    "ss_nodes": 2,
-    "format": "clash-yaml",
-    "ok": true
-   },
-   {
-    "path": "output/by-country/clash-AT.yaml",
-    "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-AT.yaml",
-    "nodes": 4,
-    "ss_nodes": 1,
-    "format": "clash-yaml",
-    "ok": true
-   },
-   {
-    "path": "output/by-country/clash-AU.yaml",
-    "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-AU.yaml",
-    "nodes": 3,
-    "ss_nodes": 0,
-    "format": "clash-yaml",
-    "ok": true
-   },
-   {
-    "path": "output/by-country/clash-BR.yaml",
-    "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-BR.yaml",
-    "nodes": 6,
-    "ss_nodes": 0,
-    "format": "clash-yaml",
-    "ok": true
-   },
-   {
-    "path": "output/by-country/clash-BY.yaml",
-    "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-BY.yaml",
-    "nodes": 7,
-    "ss_nodes": 0,
-    "format": "clash-yaml",
-    "ok": true
-   }
-  ]
- },
- "jichangtuijian-cheap/cheap-airports": {
-  "pushed_at": "2026-11-23T12:21:11Z",
-  "html_url": "https://github.com/jichangtuijian-cheap/cheap-airports",
-  "links": []
- },
- "zhuhaiuk/free-nodes": {
-  "pushed_at": "2026-11-23T12:20:06Z",
-  "html_url": "https://github.com/zhuhaiuk/free-nodes",
-  "links": [
-   {
-    "path": "clash_config.yaml",
-    "url": "https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/clash_config.yaml",
-    "nodes": 40,
-    "ss_nodes": 0,
-    "format": "clash-yaml",
-    "ok": true
-   },
-   {
-    "path": "extra_clash_config.yaml",
-    "url": "https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/extra_clash_config.yaml",
-    "nodes": 1,
-    "ss_nodes": 1,
-    "format": "clash-yaml",
-    "ok": true
-   },
-   {
-    "path": "extra_nodes.txt",
-    "url": "https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/extra_nodes.txt",
-    "nodes": 0,
-    "ss_nodes": 1,
-    "format": "base64",
-    "ok": false
-   },
-   {
-    "path": "nodes.txt",
-    "url": "https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/nodes.txt",
-    "nodes": 1,
-    "ss_nodes": 1,
-    "format": "base64",
-    "ok": true
-   }
-  ]
- },
- "sinavm/SVM": {
-  "pushed_at": "2026-11-23T12:16:03Z",
-  "html_url": "https://github.com/sinavm/SVM",
-  "links": [
-   {
-    "path": ".github/ISSUE_TEMPLATE/dead-node.yml",
-    "url": "https://raw.githubusercontent.com/sinavm/SVM/main/.github/ISSUE_TEMPLATE/dead-node.yml",
-    "nodes": 0,
-    "ss_nodes": 0,
-    "format": "unknown",
-    "ok": false
-   }
-  ]
- },
- "HakurouKen/free-node": {
-  "pushed_at": "2026-11-23T12:15:59Z",
-  "html_url": "https://github.com/HakurouKen/free-node",
-  "links": []
- },
- "nichecer/v2ray-node-share": {
-  "pushed_at": "2026-11-23T12:15:27Z",
-  "html_url": "https://github.com/nichecer/v2ray-node-share",
-  "links": [
-   {
-    "path": "nodes.txt",
-    "url": "https://raw.githubusercontent.com/nichecer/v2ray-node-share/main/nodes.txt",
-    "nodes": 15,
-    "ss_nodes": 10,
-    "format": "plain",
-    "ok": true
-   },
-   {
-    "path": "sub.txt",
-    "url": "https://raw.githubusercontent.com/nichecer/v2ray-node-share/main/sub.txt",
-    "nodes": 15,
-    "ss_nodes": 10,
-    "format": "base64",
-    "ok": true
-   }
-  ]
- },
- "ermaozi/get_subscribe": {
-  "pushed_at": "2026-11-23T12:15:19Z",
-  "html_url": "https://github.com/ermaozi/get_subscribe",
-  "links": [
-   {
-    "path": "subscribe/clash.yml",
-    "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml",
-    "nodes": 374,
-    "ss_nodes": 83,
-    "format": "clash-yaml",
-    "ok": true
-   },
-   {
-    "path": "subscribe/reachable/clash.yml",
-    "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/reachable/clash.yml",
-    "nodes": 286,
-    "ss_nodes": 79,
-    "format": "clash-yaml",
-    "ok": true
-   },
-   {
-    "path": "subscribe/unreachable/clash.yml",
-    "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/unreachable/clash.yml",
-    "nodes": 29,
-    "ss_nodes": 4,
-    "format": "clash-yaml",
-    "ok": true
-   },
-   {
-    "path": "subscribe/untested/clash.yml",
-    "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/untested/clash.yml",
-    "nodes": 79,
-    "ss_nodes": 0,
-    "format": "clash-yaml",
-    "ok": true
-   },
-   {
-    "path": "subscribe/reachable/v2ray.txt",
-    "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/reachable/v2ray.txt",
-    "nodes": 223,
-    "ss_nodes": 88,
-    "format": "plain",
-    "ok": true
-   }
-  ]
- },
- "shifeiquan520/shifeiquan3": {
-  "pushed_at": "2026-11-23T12:13:32Z",
-  "html_url": "https://github.com/shifeiquan520/shifeiquan3",
-  "links": [
-   {
-    "path": "output/clash.yaml",
-    "url": "https://raw.githubusercontent.com/shifeiquan520/shifeiquan3/main/output/clash.yaml",
-    "nodes": 56,
-    "ss_nodes": 31,
-    "format": "clash-yaml",
-    "ok": true
-   }
-  ]
- },
- "nichecer/clash-node-share": {
-  "pushed_at": "2026-11-23T12:10:21Z",
-  "html_url": "https://github.com/nichecer/clash-node-share",
-  "links": [
-   {
-    "path": "clash.yaml",
-    "url": "https://raw.githubusercontent.com/nichecer/clash-node-share/main/clash.yaml",
-    "nodes": 27,
-    "ss_nodes": 10,
-    "format": "clash-yaml",
-    "ok": true
-   }
-  ]
- },
- "fiamitaa/fiamitaa": {
-  "pushed_at": "2026-11-23T12:09:05Z",
-  "html_url": "https://github.com/fiamitaa/fiamitaa",
-  "links": []
- },
- "Agumuzi/crhopper": {
-  "pushed_at": "2026-11-23T12:05:30Z",
-  "html_url": "https://github.com/Agumuzi/crhopper",
-  "links": []
- },
- "nichecer/shadowrocket-node-share": {
-  "pushed_at": "2026-11-23T12:05:19Z",
-  "html_url": "https://github.com/nichecer/shadowrocket-node-share",
-  "links": [
-   {
-    "path": "nodes.txt",
-    "url": "https://raw.githubusercontent.com/nichecer/shadowrocket-node-share/main/nodes.txt",
-    "nodes": 15,
-    "ss_nodes": 9,
-    "format": "plain",
-    "ok": true
-   },
-   {
-    "path": "sub.txt",
-    "url": "https://raw.githubusercontent.com/nichecer/shadowrocket-node-share/main/sub.txt",
-    "nodes": 15,
-    "ss_nodes": 9,
-    "format": "base64",
-    "ok": true
-   }
-  ]
- },
  "ProblemTheCode/SylphNet-public": {
-  "pushed_at": "2026-11-23T12:03:58Z",
+  "pushed_at": "2026-11-23T23:52:44Z",
   "html_url": "https://github.com/ProblemTheCode/SylphNet-public",
   "links": [
    {
     "path": "sub/sub.txt",
     "url": "https://raw.githubusercontent.com/ProblemTheCode/SylphNet-public/main/sub/sub.txt",
-    "nodes": 221,
-    "ss_nodes": 90,
+    "nodes": 117,
+    "ss_nodes": 79,
     "format": "base64",
     "ok": true
    },
    {
     "path": "sub/sub_plain.txt",
     "url": "https://raw.githubusercontent.com/ProblemTheCode/SylphNet-public/main/sub/sub_plain.txt",
-    "nodes": 221,
-    "ss_nodes": 90,
+    "nodes": 117,
+    "ss_nodes": 79,
     "format": "plain",
     "ok": true
    }
   ]
  },
- "lerjtl/Testfree": {
-  "pushed_at": "2026-11-23T12:00:53Z",
-  "html_url": "https://github.com/lerjtl/Testfree",
-  "links": []
- },
- "kooker/FreeSubsCheck": {
-  "pushed_at": "2026-11-23T12:00:49Z",
-  "html_url": "https://github.com/kooker/FreeSubsCheck",
+ "OgdenThomas/freesub": {
+  "pushed_at": "2026-11-23T23:50:57Z",
+  "html_url": "https://github.com/OgdenThomas/freesub",
   "links": [
    {
-    "path": "all.yaml",
-    "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/all.yaml",
+    "path": "output/by-country/clash-AM.yaml",
+    "url": "https://raw.githubusercontent.com/OgdenThomas/freesub/main/output/by-country/clash-AM.yaml",
     "nodes": 4,
     "ss_nodes": 0,
     "format": "clash-yaml",
     "ok": true
    },
    {
-    "path": ".github/workflows/update-subs.yml",
-    "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/.github/workflows/update-subs.yml",
-    "nodes": 0,
-    "ss_nodes": 0,
-    "format": "unknown",
-    "ok": false
-   }
-  ]
- },
- "skka3134/Free-servers": {
-  "pushed_at": "2026-11-23T12:00:41Z",
-  "html_url": "https://github.com/skka3134/Free-servers",
-  "links": []
- },
- "v2raydog-node/free-nodes": {
-  "pushed_at": "2026-11-23T12:00:22Z",
-  "html_url": "https://github.com/v2raydog-node/free-nodes",
-  "links": [
-   {
-    "path": "clash.yaml",
-    "url": "https://raw.githubusercontent.com/v2raydog-node/free-nodes/main/clash.yaml",
-    "nodes": 27,
-    "ss_nodes": 10,
+    "path": "output/by-country/clash-AT.yaml",
+    "url": "https://raw.githubusercontent.com/OgdenThomas/freesub/main/output/by-country/clash-AT.yaml",
+    "nodes": 2,
+    "ss_nodes": 1,
     "format": "clash-yaml",
     "ok": true
    },
    {
-    "path": "nodes.txt",
-    "url": "https://raw.githubusercontent.com/v2raydog-node/free-nodes/main/nodes.txt",
-    "nodes": 13,
-    "ss_nodes": 10,
+    "path": "output/by-country/clash-AU.yaml",
+    "url": "https://raw.githubusercontent.com/OgdenThomas/freesub/main/output/by-country/clash-AU.yaml",
+    "nodes": 3,
+    "ss_nodes": 0,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "output/by-country/clash-CA.yaml",
+    "url": "https://raw.githubusercontent.com/OgdenThomas/freesub/main/output/by-country/clash-CA.yaml",
+    "nodes": 18,
+    "ss_nodes": 1,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "output/by-country/clash-CH.yaml",
+    "url": "https://raw.githubusercontent.com/OgdenThomas/freesub/main/output/by-country/clash-CH.yaml",
+    "nodes": 9,
+    "ss_nodes": 0,
+    "format": "clash-yaml",
+    "ok": true
+   }
+  ]
+ },
+ "lucas8864/freesub": {
+  "pushed_at": "2026-11-23T23:47:44Z",
+  "html_url": "https://github.com/lucas8864/freesub",
+  "links": [
+   {
+    "path": "output/by-country/clash-AE.yaml",
+    "url": "https://raw.githubusercontent.com/lucas8864/freesub/main/output/by-country/clash-AE.yaml",
+    "nodes": 5,
+    "ss_nodes": 2,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "output/by-country/clash-AM.yaml",
+    "url": "https://raw.githubusercontent.com/lucas8864/freesub/main/output/by-country/clash-AM.yaml",
+    "nodes": 4,
+    "ss_nodes": 0,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "output/by-country/clash-AT.yaml",
+    "url": "https://raw.githubusercontent.com/lucas8864/freesub/main/output/by-country/clash-AT.yaml",
+    "nodes": 4,
+    "ss_nodes": 2,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "output/by-country/clash-AU.yaml",
+    "url": "https://raw.githubusercontent.com/lucas8864/freesub/main/output/by-country/clash-AU.yaml",
+    "nodes": 4,
+    "ss_nodes": 0,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "output/by-country/clash-BR.yaml",
+    "url": "https://raw.githubusercontent.com/lucas8864/freesub/main/output/by-country/clash-BR.yaml",
+    "nodes": 6,
+    "ss_nodes": 0,
+    "format": "clash-yaml",
+    "ok": true
+   }
+  ]
+ },
+ "3inker/v2ray-subscription": {
+  "pushed_at": "2026-11-23T23:46:00Z",
+  "html_url": "https://github.com/3inker/v2ray-subscription",
+  "links": [
+   {
+    "path": "subs/all_not_ru.txt",
+    "url": "https://raw.githubusercontent.com/3inker/v2ray-subscription/main/subs/all_not_ru.txt",
+    "nodes": 422,
+    "ss_nodes": 56,
     "format": "plain",
     "ok": true
    },
    {
-    "path": "v2ray.txt",
-    "url": "https://raw.githubusercontent.com/v2raydog-node/free-nodes/main/v2ray.txt",
-    "nodes": 13,
-    "ss_nodes": 10,
+    "path": "subs/all_ru.txt",
+    "url": "https://raw.githubusercontent.com/3inker/v2ray-subscription/main/subs/all_ru.txt",
+    "nodes": 101,
+    "ss_nodes": 1,
+    "format": "plain",
+    "ok": true
+   }
+  ]
+ },
+ "V2HUBIR/V2HUBIR-Free-V2Ray-Configs-free-Sub": {
+  "pushed_at": "2026-11-23T23:45:47Z",
+  "html_url": "https://github.com/V2HUBIR/V2HUBIR-Free-V2Ray-Configs-free-Sub",
+  "links": [
+   {
+    "path": "sub.txt",
+    "url": "https://raw.githubusercontent.com/V2HUBIR/V2HUBIR-Free-V2Ray-Configs-free-Sub/main/sub.txt",
+    "nodes": 174,
+    "ss_nodes": 26,
+    "format": "plain",
+    "ok": true
+   },
+   {
+    "path": "sub_base64.txt",
+    "url": "https://raw.githubusercontent.com/V2HUBIR/V2HUBIR-Free-V2Ray-Configs-free-Sub/main/sub_base64.txt",
+    "nodes": 174,
+    "ss_nodes": 26,
     "format": "base64",
     "ok": true
    }
   ]
  },
  "nyeinkokoaung404/V2ray-Configs": {
-  "pushed_at": "2026-11-23T12:00:14Z",
+  "pushed_at": "2026-11-23T23:45:19Z",
   "html_url": "https://github.com/nyeinkokoaung404/V2ray-Configs",
   "links": [
    {
     "path": "All_Configs_Sub.txt",
     "url": "https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/All_Configs_Sub.txt",
-    "nodes": 867,
+    "nodes": 863,
     "ss_nodes": 0,
     "format": "plain",
     "ok": true
@@ -965,8 +866,8 @@
    {
     "path": "Sub10.txt",
     "url": "https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/Sub10.txt",
-    "nodes": 30,
-    "ss_nodes": 63,
+    "nodes": 13,
+    "ss_nodes": 4,
     "format": "plain",
     "ok": true
    },
@@ -988,9 +889,407 @@
    }
   ]
  },
- "crossxx-labs/free-proxy": {
-  "pushed_at": "2026-11-23T12:00:07Z",
-  "html_url": "https://github.com/crossxx-labs/free-proxy",
+ "looomix/Node-Configs": {
+  "pushed_at": "2026-11-23T23:44:52Z",
+  "html_url": "https://github.com/looomix/Node-Configs",
+  "links": [
+   {
+    "path": "configs/protocols/AllProtocols.txt",
+    "url": "https://raw.githubusercontent.com/looomix/Node-Configs/main/configs/protocols/AllProtocols.txt",
+    "nodes": 815,
+    "ss_nodes": 590,
+    "format": "plain",
+    "ok": true
+   },
+   {
+    "path": "configs/clash/config.yaml",
+    "url": "https://raw.githubusercontent.com/looomix/Node-Configs/main/configs/clash/config.yaml",
+    "nodes": 1751,
+    "ss_nodes": 302,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "configs/clash/proxies.yaml",
+    "url": "https://raw.githubusercontent.com/looomix/Node-Configs/main/configs/clash/proxies.yaml",
+    "nodes": 1752,
+    "ss_nodes": 302,
+    "format": "clash-yaml",
+    "ok": true
+   }
+  ]
+ },
+ "abshare/abshare.github.io": {
+  "pushed_at": "2026-11-23T23:44:40Z",
+  "html_url": "https://github.com/abshare/abshare.github.io",
+  "links": []
+ },
+ "laoXuHome/NodePoolME": {
+  "pushed_at": "2026-11-23T23:42:23Z",
+  "html_url": "https://github.com/laoXuHome/NodePoolME",
+  "links": []
+ },
+ "ermaozi01/free_clash_vpn": {
+  "pushed_at": "2026-11-23T23:41:26Z",
+  "html_url": "https://github.com/ermaozi01/free_clash_vpn",
+  "links": [
+   {
+    "path": "subscribe/clash.yml",
+    "url": "https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml",
+    "nodes": 61,
+    "ss_nodes": 5,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "subscribe/v2ray.txt",
+    "url": "https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/v2ray.txt",
+    "nodes": 20,
+    "ss_nodes": 5,
+    "format": "base64",
+    "ok": true
+   }
+  ]
+ },
+ "mani-moh/pattn": {
+  "pushed_at": "2026-11-23T23:41:02Z",
+  "html_url": "https://github.com/mani-moh/pattn",
+  "links": [
+   {
+    "path": "subs/all.txt",
+    "url": "https://raw.githubusercontent.com/mani-moh/pattn/master/subs/all.txt",
+    "nodes": 832,
+    "ss_nodes": 336,
+    "format": "plain",
+    "ok": true
+   },
+   {
+    "path": "subs/all_base64.txt",
+    "url": "https://raw.githubusercontent.com/mani-moh/pattn/master/subs/all_base64.txt",
+    "nodes": 568,
+    "ss_nodes": 326,
+    "format": "base64",
+    "ok": true
+   },
+   {
+    "path": ".github/workflows/update-subs.yml",
+    "url": "https://raw.githubusercontent.com/mani-moh/pattn/master/.github/workflows/update-subs.yml",
+    "nodes": 0,
+    "ss_nodes": 0,
+    "format": "unknown",
+    "ok": false
+   },
+   {
+    "path": "subs/categories/cdn-ws-grpc.txt",
+    "url": "https://raw.githubusercontent.com/mani-moh/pattn/master/subs/categories/cdn-ws-grpc.txt",
+    "nodes": 982,
+    "ss_nodes": 26,
+    "format": "plain",
+    "ok": true
+   },
+   {
+    "path": "subs/categories/cdn-ws-grpc_base64.txt",
+    "url": "https://raw.githubusercontent.com/mani-moh/pattn/master/subs/categories/cdn-ws-grpc_base64.txt",
+    "nodes": 688,
+    "ss_nodes": 26,
+    "format": "base64",
+    "ok": true
+   }
+  ]
+ },
+ "F0rc3Run/F0rc3Run": {
+  "pushed_at": "2026-11-23T23:35:48Z",
+  "html_url": "https://github.com/F0rc3Run/F0rc3Run",
+  "links": [
+   {
+    "path": "Best-Results/clash-provider.yaml",
+    "url": "https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/Best-Results/clash-provider.yaml",
+    "nodes": 341,
+    "ss_nodes": 0,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "Best-Results/clash.yaml",
+    "url": "https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/Best-Results/clash.yaml",
+    "nodes": 370,
+    "ss_nodes": 0,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "Best-Results/sub.txt",
+    "url": "https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/Best-Results/sub.txt",
+    "nodes": 85,
+    "ss_nodes": 222,
+    "format": "base64",
+    "ok": true
+   }
+  ]
+ },
+ "Andrejewild/hiddify-singbox-configs-ru": {
+  "pushed_at": "2026-11-23T23:34:18Z",
+  "html_url": "https://github.com/Andrejewild/hiddify-singbox-configs-ru",
+  "links": [
+   {
+    "path": "sub.txt",
+    "url": "https://raw.githubusercontent.com/Andrejewild/hiddify-singbox-configs-ru/main/sub.txt",
+    "nodes": 20,
+    "ss_nodes": 0,
+    "format": "plain",
+    "ok": true
+   }
+  ]
+ },
+ "Andrejewild/happ-v2rayng-configs": {
+  "pushed_at": "2026-11-23T23:33:53Z",
+  "html_url": "https://github.com/Andrejewild/happ-v2rayng-configs",
+  "links": [
+   {
+    "path": "sub.txt",
+    "url": "https://raw.githubusercontent.com/Andrejewild/happ-v2rayng-configs/main/sub.txt",
+    "nodes": 20,
+    "ss_nodes": 0,
+    "format": "plain",
+    "ok": true
+   }
+  ]
+ },
+ "alicyberrr/NoizVpn-Sub": {
+  "pushed_at": "2026-11-23T23:25:37Z",
+  "html_url": "https://github.com/alicyberrr/NoizVpn-Sub",
+  "links": []
+ },
+ "Mahdi0024/ProxyCollector": {
+  "pushed_at": "2026-11-23T23:23:34Z",
+  "html_url": "https://github.com/Mahdi0024/ProxyCollector",
+  "links": [
+   {
+    "path": "sub/proxies.txt",
+    "url": "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
+    "nodes": 220,
+    "ss_nodes": 216,
+    "format": "plain",
+    "ok": true
+   }
+  ]
+ },
+ "chaoslex/airport3": {
+  "pushed_at": "2026-11-23T23:16:10Z",
+  "html_url": "https://github.com/chaoslex/airport3",
+  "links": []
+ },
+ "AmazingCoderA/PypsCFG": {
+  "pushed_at": "2026-11-23T23:12:09Z",
+  "html_url": "https://github.com/AmazingCoderA/PypsCFG",
+  "links": [
+   {
+    "path": "output/merged_all.txt",
+    "url": "https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/merged_all.txt",
+    "nodes": 1174,
+    "ss_nodes": 0,
+    "format": "plain",
+    "ok": true
+   },
+   {
+    "path": "output/merged_all_Checked.txt",
+    "url": "https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/merged_all_Checked.txt",
+    "nodes": 1128,
+    "ss_nodes": 0,
+    "format": "plain",
+    "ok": true
+   },
+   {
+    "path": "reports/merged_all_Checked_endpoints.txt",
+    "url": "https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/reports/merged_all_Checked_endpoints.txt",
+    "nodes": 0,
+    "ss_nodes": 0,
+    "format": "unknown",
+    "ok": false
+   },
+   {
+    "path": "reports/merged_all_endpoints.txt",
+    "url": "https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/reports/merged_all_endpoints.txt",
+    "nodes": 0,
+    "ss_nodes": 0,
+    "format": "unknown",
+    "ok": false
+   },
+   {
+    "path": "output/FavoriteSubBlack.txt",
+    "url": "https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/FavoriteSubBlack.txt",
+    "nodes": 0,
+    "ss_nodes": 0,
+    "format": "unknown",
+    "ok": false
+   }
+  ]
+ },
+ "nodesfree/clashnode": {
+  "pushed_at": "2026-11-23T23:10:01Z",
+  "html_url": "https://github.com/nodesfree/clashnode",
+  "links": [
+   {
+    "path": "clash.yaml",
+    "url": "https://raw.githubusercontent.com/nodesfree/clashnode/main/clash.yaml",
+    "nodes": 0,
+    "ss_nodes": 0,
+    "format": "unknown",
+    "ok": false
+   },
+   {
+    "path": "subscribe/clash.yaml",
+    "url": "https://raw.githubusercontent.com/nodesfree/clashnode/main/subscribe/clash.yaml",
+    "nodes": 17,
+    "ss_nodes": 0,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "subscribe/clash.yml",
+    "url": "https://raw.githubusercontent.com/nodesfree/clashnode/main/subscribe/clash.yml",
+    "nodes": 13,
+    "ss_nodes": 0,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "v2ray.txt",
+    "url": "https://raw.githubusercontent.com/nodesfree/clashnode/main/v2ray.txt",
+    "nodes": 0,
+    "ss_nodes": 0,
+    "format": "unknown",
+    "ok": false
+   },
+   {
+    "path": "subscribe/v2ray.txt",
+    "url": "https://raw.githubusercontent.com/nodesfree/clashnode/main/subscribe/v2ray.txt",
+    "nodes": 5,
+    "ss_nodes": 1,
+    "format": "plain",
+    "ok": true
+   }
+  ]
+ },
+ "licheng527/Free-servers": {
+  "pushed_at": "2026-11-23T23:01:12Z",
+  "html_url": "https://github.com/licheng527/Free-servers",
+  "links": []
+ },
+ "bily1258-design/beimi": {
+  "pushed_at": "2026-11-23T22:59:33Z",
+  "html_url": "https://github.com/bily1258-design/beimi",
+  "links": [
+   {
+    "path": ".github/workflows/update-subscription.yml",
+    "url": "https://raw.githubusercontent.com/bily1258-design/beimi/main/.github/workflows/update-subscription.yml",
+    "nodes": 0,
+    "ss_nodes": 0,
+    "format": "unknown",
+    "ok": false
+   },
+   {
+    "path": "output/clash.yaml",
+    "url": "https://raw.githubusercontent.com/bily1258-design/beimi/main/output/clash.yaml",
+    "nodes": 1378,
+    "ss_nodes": 51,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "subscription.txt",
+    "url": "https://raw.githubusercontent.com/bily1258-design/beimi/main/subscription.txt",
+    "nodes": 112,
+    "ss_nodes": 25,
+    "format": "base64",
+    "ok": true
+   },
+   {
+    "path": "output/subscribe.txt",
+    "url": "https://raw.githubusercontent.com/bily1258-design/beimi/main/output/subscribe.txt",
+    "nodes": 1378,
+    "ss_nodes": 51,
+    "format": "clash-yaml",
+    "ok": true
+   },
+   {
+    "path": "output/subscribe_b64.txt",
+    "url": "https://raw.githubusercontent.com/bily1258-design/beimi/main/output/subscribe_b64.txt",
+    "nodes": 717,
+    "ss_nodes": 51,
+    "format": "base64",
+    "ok": true
+   }
+  ]
+ },
+ "MahanKenway/Pusheen-V2Ray": {
+  "pushed_at": "2026-11-23T22:52:51Z",
+  "html_url": "https://github.com/MahanKenway/Pusheen-V2Ray",
+  "links": [
+   {
+    "path": "snapshots/20260819T233356Z-25b4f3c5ecc5/all.txt",
+    "url": "https://raw.githubusercontent.com/MahanKenway/Pusheen-V2Ray/main/snapshots/20260819T233356Z-25b4f3c5ecc5/all.txt",
+    "nodes": 7,
+    "ss_nodes": 0,
+    "format": "plain",
+    "ok": true
+   },
+   {
+    "path": "snapshots/reachable/20260820T002009Z-07efd8ccb911/all.txt",
+    "url": "https://raw.githubusercontent.com/MahanKenway/Pusheen-V2Ray/main/snapshots/reachable/20260820T002009Z-07efd8ccb911/all.txt",
+    "nodes": 34,
+    "ss_nodes": 0,
+    "format": "plain",
+    "ok": true
+   },
+   {
+    "path": "snapshots/reachable/20260820T005452Z-e7a3dcc648f7/all.txt",
+    "url": "https://raw.githubusercontent.com/MahanKenway/Pusheen-V2Ray/main/snapshots/reachable/20260820T005452Z-e7a3dcc648f7/all.txt",
+    "nodes": 44,
+    "ss_nodes": 0,
+    "format": "plain",
+    "ok": true
+   },
+   {
+    "path": "snapshots/reachable/20260820T005946Z-e8d9c4913f48/all.txt",
+    "url": "https://raw.githubusercontent.com/MahanKenway/Pusheen-V2Ray/main/snapshots/reachable/20260820T005946Z-e8d9c4913f48/all.txt",
+    "nodes": 54,
+    "ss_nodes": 0,
+    "format": "plain",
+    "ok": true
+   },
+   {
+    "path": "snapshots/reachable/20260820T014930Z-85c62ad133f8/all.txt",
+    "url": "https://raw.githubusercontent.com/MahanKenway/Pusheen-V2Ray/main/snapshots/reachable/20260820T014930Z-85c62ad133f8/all.txt",
+    "nodes": 64,
+    "ss_nodes": 0,
+    "format": "plain",
+    "ok": true
+   }
+  ]
+ },
+ "ZendanTeam/SS44-sub": {
+  "pushed_at": "2026-11-23T22:51:50Z",
+  "html_url": "https://github.com/ZendanTeam/SS44-sub",
+  "links": []
+ },
+ "shaoyouvip/free": {
+  "pushed_at": "2026-11-23T22:47:43Z",
+  "html_url": "https://github.com/shaoyouvip/free",
+  "links": [
+   {
+    "path": "all.yaml",
+    "url": "https://raw.githubusercontent.com/shaoyouvip/free/main/all.yaml",
+    "nodes": 133,
+    "ss_nodes": 11,
+    "format": "clash-yaml",
+    "ok": true
+   }
+  ]
+ },
+ "fastestjerry/ai-agent": {
+  "pushed_at": "2026-11-23T22:45:22Z",
+  "html_url": "https://github.com/fastestjerry/ai-agent",
   "links": []
  }
 }
